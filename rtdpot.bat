@@ -11,3 +11,5 @@ echo.
 echo --- Make NEW .pot ---
 echo.
 make gettext
+echo.
+echo.
