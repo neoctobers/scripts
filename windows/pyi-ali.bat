@@ -1,0 +1,9 @@
+@ECHO OFF
+echo.
+echo ========================================
+echo Install Python Package with AliYun Index
+echo ======================================== %*
+echo.
+pip3 install -i https://mirrors.aliyun.com/pypi/simple/ -U %*
+echo.
+echo.
