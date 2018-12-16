@@ -1,8 +1,8 @@
 #!/bin/sh
 echo
-echo "================="
-echo "python3 manage.py $*"
-echo "================="
+echo =================
+echo python3 manage.py
+echo ================= $*
 echo
 python3 manage.py $*
 echo
