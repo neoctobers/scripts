@@ -1,8 +1,8 @@
 #!/bin/sh
 echo
-echo ===========================
-echo netstat -ntlp | grep LISTEN
-echo ===========================
+echo "==========================="
+echo "netstat -ntlp | grep LISTEN"
+echo "==========================="
 echo
 netstat -ntlp | grep LISTEN
 echo
