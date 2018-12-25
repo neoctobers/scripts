@@ -1,3 +1,2 @@
 #!/bin/sh
-proxychains4 -q -f /data/repo/scripts/conf/proxychains-tor.conf $*
-
+proxychains4 -q -f /data/proxychains-conf/tor.conf $*
