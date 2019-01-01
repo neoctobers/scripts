@@ -1,3 +1,3 @@
-# [>> Read the Instructions <<](https://neoctobers.readthedocs.io/en/latest/repo/scripts.html)
+# Some useful scripts
 
-Hosted by ReadTheDocs: https://neoctobers.readthedocs.io/en/latest/repo/scripts.html
+[>> Read the docs <<](https://neoctobers.readthedocs.io/en/latest/repo/scripts.html)
