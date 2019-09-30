@@ -19,7 +19,7 @@ if "%proxyPort%" == "" (
     echo.
     echo ===========================
     echo Set http/https proxy in cmd
-    echo =========================== http://%proxyHost%:%proxyPort%
+    echo =========================== http/https %proxyHost%:%proxyPort%
     echo.
     echo.
     set http_proxy=http://%proxyHost%:%proxyPort%

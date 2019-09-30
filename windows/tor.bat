@@ -1,2 +1,2 @@
 @ECHO OFF
-C:/tor/tor.exe
+D:/G/tor/tor.exe
